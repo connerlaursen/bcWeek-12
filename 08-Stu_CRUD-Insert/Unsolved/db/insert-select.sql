@@ -5,5 +5,3 @@ VALUES
     ( 003, "Long Walk to Freedom");
 
 SELECT * FROM biographies;
-
--- inserts entries into the biographies table with id and names listed above in the values
